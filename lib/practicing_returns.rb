@@ -12,3 +12,4 @@ end
 
 
 x = hello(["Tim", "Tom", "Jim"]) { |name| "Hi, #{name}" }
+puts x
